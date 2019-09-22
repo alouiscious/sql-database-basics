@@ -1,2 +1,2 @@
-CREATE TABLE cats (id INTEGER PRIMARY KEY, name TEXT, age INT, breed TEXT, owner_id INT);
+CREATE TABLE cats (id INTEGER PRIMARY KEY, name TEXT, age INT, breed TEXT, net_worth INT);
 
